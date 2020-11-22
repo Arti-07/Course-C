@@ -67,7 +67,7 @@ namespace Task1._1
                 Console.WriteLine("ОШИБКА! ДЕЛЕНИЕ НА 0 ");
 
                 //
-                //  4 задание 
+                //  4 заданиe
                 //
 
                 double x1, x2;
